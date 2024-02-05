@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "3cc936f927726911",
+    "type": "split",
+    "children": [
+      {
+        "id": "21dd172d8d0a3f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01bad260ed1f003a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki de Produto/Doc. Código/Análise de dados/TRI ENEM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc177e3b9f6600e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki de Produto/Doc. Código/Distribuição de pesos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "276f038c73d2d8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Changelog Lize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32daeb353710625e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6acbbd7b0e974dfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33ae339945d194c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "064c3f8cc9578970",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7402b595e6ad941",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "b4eae729a45b1d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd56c65d9689f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076332865d6fea26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Changelog Lize.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e3bfe8813f87742",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Changelog Lize.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4c319b38c7423e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01d5d6f2cb742b04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Changelog Lize.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "047013891c690dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "568d7d1d010589a8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Changelog Lize.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "276f038c73d2d8c4",
+  "lastOpenFiles": [
+    "Wiki de Produto/Wiki de Produto.md",
+    "Wiki de Produto/Doc. Código/Weaviate.md",
+    "Wiki de Produto/Doc. Código/Distribuição de pesos.md",
+    "Wiki de Produto/Doc. Código/Análise de dados/TRI ENEM.md",
+    "Wiki de Produto/Doc. Código/Análise de dados/Análise de dados.md",
+    "Wiki de Produto/Doc. Código/Doc. Código.md",
+    "media/Diagrama_sem_nome.drawio.svg",
+    "Wiki de Produto/Iniciando na Lize/Iniciando na Lize.md",
+    "media",
+    "Wiki de Produto/Iniciando na Lize/Banco de dados para testes.md",
+    "Wiki de Produto/Doc. Código/Módulo de gabaritos/Módulo de gabaritos.md",
+    "Wiki de Produto/Infraestrutura/Infraestrutura.md",
+    "Wiki de Produto/Doc. Código/Integração com Activesoft/Composição de notas/Composição de notas.md",
+    "Wiki de Produto/Doc. Código/Question/Sistema de Tags.md",
+    "Wiki de Produto/Doc. Código/Question/Question.md",
+    "media/Untitled 2.png",
+    "Wiki de Produto/Doc. Código/Sistema de permissões (Django)/Sistema de permissões (Django).md",
+    "media/Untitled 3.png",
+    "media/Untitled 1.png",
+    "media/Untitled.png",
+    "Changelog Lize.md",
+    "Cultura Fiscallize 2023/Nossos sistemas internos.md",
+    "Cultura Fiscallize 2023/Cultura Fiscallize 2023.md",
+    "Cultura Fiscallize 2023/Como tudo começou.md",
+    "Cultura Fiscallize 2023/Como trabalhamos.md",
+    "Wiki de Produto/Doc. Código/Integração com Activesoft/Sincronizar Alunos e Turma.md",
+    "Wiki de Produto/Doc. Código/Análise de dados/Simulador SISU.md",
+    "Wiki de Produto/Doc. Código/Módulo de gabaritos/Serviço de impressão.md",
+    "Wiki de Produto/Doc. Código/Sistema de Parceiros.md",
+    "Wiki de Produto/Doc. Código/Integração com Activesoft/Integração com Activesoft.md",
+    "Wiki de Produto/Doc. Código/Login dos responsáveis.md",
+    "Wiki de Produto/Doc. Código/Snippets.md",
+    "Wiki de Produto/Doc. Código/Integração com Activesoft/Composição de notas",
+    "Wiki de Produto/Doc. Código/Sistema de permissões (Django)",
+    "Wiki de Produto/Doc. Código/Integração com Activesoft",
+    "Wiki de Produto/Doc. Código/Análise de dados",
+    "Wiki de Produto/Doc. Código/Question",
+    "Wiki de Produto/Doc. Código/Módulo de gabaritos",
+    "Wiki de Produto/Infraestrutura",
+    "Wiki de Produto/Iniciando na Lize",
+    "Wiki de Produto/Doc. Código"
+  ]
+}
