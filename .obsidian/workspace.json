@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changelog Lize.md",
+                "file": "Wiki de Produto/Doc. Código/Integração com Activesoft/Sincronizar Alunos e Turma.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Integração",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Changelog Lize.md",
+                "file": "Wiki de Produto/Doc. Código/Integração com Activesoft/Sincronizar Alunos e Turma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Changelog Lize.md",
+                "file": "Wiki de Produto/Doc. Código/Integração com Activesoft/Sincronizar Alunos e Turma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changelog Lize.md"
+                "file": "Wiki de Produto/Doc. Código/Integração com Activesoft/Sincronizar Alunos e Turma.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "047013891c690dbb",
@@ -166,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Changelog Lize.md",
+                "file": "Wiki de Produto/Doc. Código/Integração com Activesoft/Sincronizar Alunos e Turma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 554.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,11 +216,13 @@
   },
   "active": "276f038c73d2d8c4",
   "lastOpenFiles": [
+    "Wiki de Produto/Doc. Código/Integração com Activesoft/Composição de notas/Composição de notas.md",
+    "Wiki de Produto/Doc. Código/Análise de dados/Análise de dados.md",
+    "Changelog Lize.md",
     "Wiki de Produto/Wiki de Produto.md",
     "Wiki de Produto/Doc. Código/Weaviate.md",
     "Wiki de Produto/Doc. Código/Distribuição de pesos.md",
     "Wiki de Produto/Doc. Código/Análise de dados/TRI ENEM.md",
-    "Wiki de Produto/Doc. Código/Análise de dados/Análise de dados.md",
     "Wiki de Produto/Doc. Código/Doc. Código.md",
     "media/Diagrama_sem_nome.drawio.svg",
     "Wiki de Produto/Iniciando na Lize/Iniciando na Lize.md",
@@ -226,7 +230,6 @@
     "Wiki de Produto/Iniciando na Lize/Banco de dados para testes.md",
     "Wiki de Produto/Doc. Código/Módulo de gabaritos/Módulo de gabaritos.md",
     "Wiki de Produto/Infraestrutura/Infraestrutura.md",
-    "Wiki de Produto/Doc. Código/Integração com Activesoft/Composição de notas/Composição de notas.md",
     "Wiki de Produto/Doc. Código/Question/Sistema de Tags.md",
     "Wiki de Produto/Doc. Código/Question/Question.md",
     "media/Untitled 2.png",
@@ -234,7 +237,6 @@
     "media/Untitled 3.png",
     "media/Untitled 1.png",
     "media/Untitled.png",
-    "Changelog Lize.md",
     "Cultura Fiscallize 2023/Nossos sistemas internos.md",
     "Cultura Fiscallize 2023/Cultura Fiscallize 2023.md",
     "Cultura Fiscallize 2023/Como tudo começou.md",
