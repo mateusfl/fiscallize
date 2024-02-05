@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,8 +213,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "276f038c73d2d8c4",
+  "active": "33ae339945d194c2",
   "lastOpenFiles": [
+    "private",
     "Wiki de Produto/Doc. Código/Integração com Activesoft/Composição de notas/Composição de notas.md",
     "Wiki de Produto/Doc. Código/Análise de dados/Análise de dados.md",
     "Changelog Lize.md",
@@ -247,7 +247,6 @@
     "Wiki de Produto/Doc. Código/Sistema de Parceiros.md",
     "Wiki de Produto/Doc. Código/Integração com Activesoft/Integração com Activesoft.md",
     "Wiki de Produto/Doc. Código/Login dos responsáveis.md",
-    "Wiki de Produto/Doc. Código/Snippets.md",
     "Wiki de Produto/Doc. Código/Integração com Activesoft/Composição de notas",
     "Wiki de Produto/Doc. Código/Sistema de permissões (Django)",
     "Wiki de Produto/Doc. Código/Integração com Activesoft",
